@@ -95,8 +95,8 @@ dotnet run
 
 ## 👨‍💻 Desenvolvedores
 
-- Vitor Kenzo
--
+- Vitor Kenzo Mizumoto
+-Adriano Barutti Pessuto
 -
 
 ---
