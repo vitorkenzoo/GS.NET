@@ -98,9 +98,3 @@ dotnet run
 - Vitor Kenzo Mizumoto
 -Adriano Barutti Pessuto
 -
-
----
-
-## 📂 Repositório
-
-🔗 [https://github.com](https://github.com)
