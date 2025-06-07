@@ -14,16 +14,16 @@ namespace FuracaoAlerta.API.Models
         public string Nome { get; set; } = string.Empty;
 
         [Required]
-        [EmailAddress]
         [MaxLength(2000)]
         public string Email { get; set; } = string.Empty;
 
-        [Phone]
+        [Required]
         [MaxLength(2000)]
-        public string? Telefone { get; set; }
+        public string Telefone { get; set; } = string.Empty;
 
+        [Required]
         [MaxLength(2000)]
-        public string? Cpf { get; set; }
+        public string Cpf { get; set; } = string.Empty;
 
         [Required]
         [MaxLength(2000)]
