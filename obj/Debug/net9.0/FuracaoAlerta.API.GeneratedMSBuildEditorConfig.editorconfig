@@ -17,33 +17,33 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FuracaoAlerta.API
 build_property.RootNamespace = FuracaoAlerta.API
-build_property.ProjectDir = C:\Users\Vitor Mizumoto\Downloads\FuracaoAlerta.API\
+build_property.ProjectDir = C:\Users\Vitor Mizumoto\sdasdas\GS.NET\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Vitor Mizumoto\Downloads\FuracaoAlerta.API
+build_property.MSBuildProjectDirectory = C:\Users\Vitor Mizumoto\sdasdas\GS.NET
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Vitor Mizumoto/Downloads/FuracaoAlerta.API/Pages/Abrigos/Index.cshtml]
+[C:/Users/Vitor Mizumoto/sdasdas/GS.NET/Pages/Abrigos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJyaWdvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vitor Mizumoto/Downloads/FuracaoAlerta.API/Pages/Alertas/Index.cshtml]
+[C:/Users/Vitor Mizumoto/sdasdas/GS.NET/Pages/Alertas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxlcnRhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vitor Mizumoto/Downloads/FuracaoAlerta.API/Pages/Enderecos/Index.cshtml]
+[C:/Users/Vitor Mizumoto/sdasdas/GS.NET/Pages/Enderecos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5kZXJlY29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vitor Mizumoto/Downloads/FuracaoAlerta.API/Pages/Eventos/Index.cshtml]
+[C:/Users/Vitor Mizumoto/sdasdas/GS.NET/Pages/Eventos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vitor Mizumoto/Downloads/FuracaoAlerta.API/Pages/Usuarios/Index.cshtml]
+[C:/Users/Vitor Mizumoto/sdasdas/GS.NET/Pages/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
